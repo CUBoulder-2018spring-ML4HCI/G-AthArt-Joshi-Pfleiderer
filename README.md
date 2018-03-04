@@ -1,6 +1,6 @@
 # G-AthArt-Joshi-Pfleiderer
-dynamic time warping to make an artistic or athletic interface
-A program which uses the the Microsoft Kinect
+Dynamic time warping with an artistic or athletic interface using the the Microsoft Kinect
+
 Kushal Joshi
 Jorit Pfleiderer 
 CSCI-4830   
