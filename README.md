@@ -1,8 +1,10 @@
 # G-AthArt-Joshi-Pfleiderer
 Dynamic time warping with an artistic or athletic interface using the the Microsoft Kinect
 
-Kushal Joshi
-Jorit Pfleiderer 
+Kushal Joshi,
+Jorit Pfleiderer,
+Jake Liebow
+
 CSCI-4830   
 Prof. Shapiro
 
