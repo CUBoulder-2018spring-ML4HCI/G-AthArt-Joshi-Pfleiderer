@@ -1,4 +1,4 @@
-# G-AthArt-Joshi-Pfleiderer
+# G-AthArt-Joshi-Pfleiderer-Liebow
 Dynamic time warping with an artistic or athletic interface using the the Microsoft Kinect
 
 Kushal Joshi,
