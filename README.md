@@ -33,3 +33,5 @@ We use the Microsoft Kinect to track our bodies and more specificly our backs to
 ## Improvements
 
 ## Demo video
+
+https://youtu.be/xIKrlje2bWM
